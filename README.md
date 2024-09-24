@@ -78,7 +78,8 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
 
 ---
-![Gráfico de Ejemplo](plots/pm25_concentracion_corr.pn)
+
+![Gráfico de Ejemplo](plots/pm25_concentracion_corr.png)
 
 ---
 ### Regresiones para el $PM_{10,2.5}$

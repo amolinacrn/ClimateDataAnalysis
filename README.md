@@ -70,12 +70,16 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
 ![Gráfico de Ejemplo](plots/dispers0.png)
 
 ---
-### histografas del $PM_{10,2.5}$
+<h3 align="center">
+ histografas del $PM_{10,2.5}$
+</h3> 
 
 ![Gráfico de Ejemplo](plots/Graf8.png)
 
 ---
-### Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
+<h3 align="center">
+Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
+<h3>
 
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
 
@@ -84,7 +88,9 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
 ![Gráfico de Ejemplo](plots/pm25_concentracion_corr.png)
 
 ---
-### Regresiones para el $PM_{10,2.5}$
+<h3 align="center">
+Regresiones para el $PM_{10,2.5}$
+<h3>
 
 ![Gráfico de Ejemplo](plots/gxGraf9.png)
 

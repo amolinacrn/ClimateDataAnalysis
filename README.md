@@ -28,7 +28,7 @@ A continuación se listan las variables de estudio:
 - Temperatura a 2 m
 - Velocidad del Viento
 
-## Objetivos del Proyecto
+## Objetivos iniciales del proyecto
 
 1. **Relaciones entre variables climáticas**: Evaluar si las variables climáticas están relacionadas entre sí dentro de cada municipio.
 2. **Análisis de la calidad del aire**: Determinar el impacto de las concentraciones de contaminantes en la calidad del aire en diferentes localidades.

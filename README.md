@@ -67,9 +67,8 @@ Ejemplo de las estadisticas descriptivas para la varialbe temperatura a 10 metro
 ## Resultados Esperados
 Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Como ejemplo, los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:
 
-- Variable $PM_{10}$: $PM_{10}$ se refiere a partículas suspendidas en el aire que tienen un diámetro aerodinámico de 10 micrómetros (µm) o menos. Estas partículas son lo suficientemente pequeñas como para ser inhaladas y pueden penetrar en las vías respiratorias, lo que representa un riesgo para la salud humana y el medio ambiente.
-
-### Efectos en la Salud
+### Variable $PM_{10}$ y los efectos en la Salud: 
+$PM_{10}$ se refiere a partículas suspendidas en el aire que tienen un diámetro aerodinámico de 10 micrómetros (µm) o menos. Estas partículas son lo suficientemente pequeñas como para ser inhaladas y pueden penetrar en las vías respiratorias, lo que representa un riesgo para la salud humana y el medio ambiente. 
 
 La exposición a niveles altos de PM10 puede tener varios efectos adversos en la salud, tales como:
 

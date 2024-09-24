@@ -41,7 +41,7 @@ Para abordar el análisis, se aplicarán técnicas estadísticas para explorar l
 1. **Análisis Exploratorio de Datos (EDA)**: Se realizará un análisis descriptivo de cada variable, incluyendo su comportamiento a lo largo del tiempo en cada municipio, con el fin de identificar patrones iniciales o tendencias.
 ---
 <h3 align="center">
-Ejemplo de la variabilidad de dos serie temporales en funcion del tiempo:
+Ejemplo de la variabilidad de dos series temporales en función del tiempo:
 </h3>
    
    ![Gráfico de Ejemplo](plots/img0.png)

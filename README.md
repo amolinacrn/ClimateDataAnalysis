@@ -64,14 +64,14 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
 
 ---
 <h3 align="center">
- Variación del $PM_{10,2.5}$ en funcio del tiempo
+ Variación del $PM_{10,2.5}$ en funcion del tiempo
 </h3>
 
 ![Gráfico de Ejemplo](plots/dispers0.png)
 
 ---
 <h3 align="center">
- histografas del $PM_{10,2.5}$
+ Histogramas del $PM_{10,2.5}$
 </h3> 
 
 ![Gráfico de Ejemplo](plots/Graf8.png)
@@ -89,7 +89,7 @@ Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
 
 ---
 <h3 align="center">
-Regresiones para el $PM_{10,2.5}$
+Regresiones para las distribuciones del $PM_{10,2.5}$
 <h3>
 
 ![Gráfico de Ejemplo](plots/gxGraf9.png)

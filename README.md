@@ -39,20 +39,22 @@ A continuación se listan las variables de estudio:
 Para abordar el análisis, se aplicarán técnicas estadísticas para explorar la relación entre las variables. Los pasos incluyen:
 
 1. **Análisis Exploratorio de Datos (EDA)**: Se realizará un análisis descriptivo de cada variable, incluyendo su comportamiento a lo largo del tiempo en cada municipio, con el fin de identificar patrones iniciales o tendencias.
-
+---
 <h3 align="center">
 Ejemplo de la variabilidad de una serie temporal en funcion del tiempo:
 </h3>
    
    ![Gráfico de Ejemplo](plots/img0.png)
 
-  
+  ---
 
    <h3 align="center">
 Ejemplo de las estadisticas descriptivas:
 </h3>
 
- ![Gráfico de Ejemplo](plots/temperatura_10m.pdf)
+ ![Gráfico de Ejemplo](datosaire_files/datosaire_44_0.png)
+ 
+ ---
    
 3. **Correlación de Variables**: Se calculará la correlación entre las variables para cada municipio, utilizando matrices de correlación, coeficientes de Pearson y otros métodos estadísticos relevantes.
 

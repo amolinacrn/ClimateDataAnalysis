@@ -67,7 +67,7 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
  Variación del $PM_{10,2.5}$ en funcion del tiempo
 </h3>
 
-![Gráfico de Ejemplo](plots/dispers0.png)
+![Gráfico de Ejemplo](plots/dispers8.png)
 
 ---
 <h3 align="center">

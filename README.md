@@ -111,6 +111,10 @@ Regresiones para las distribuciones del $PM_{10,2.5}$
 ![Gráfico de Ejemplo](plots/gxGraf9.png)
 
 ---
+<h3 align="center">
+Tabla de datos que agrupa los municipios donde las variables climáticas presentan una correlación de Pearson promedio superior a 0.7. Las últimas dos columnas indican los valores de la pendiente y el intercepto de los modelos lineales que ajustan las distribuciones de los datos para cada una de las variables de estudio.
+</h3>
+
 
 ![Gráfico de Ejemplo](dataf.png)
 

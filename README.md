@@ -131,10 +131,8 @@ El análisis de datos se realiza con las siguientes herramientas:
 - **NumPy**: Para operaciones matemáticas y manipulación de arrays.
 
 Más información aquí:
---
+---
 
 https://github.com/amolinacrn/ClimateDataAnalysis/blob/main/dinamicasClimaticas.ipynb
-
---
 
 https://drive.google.com/file/d/1O9rn2bBC52oUVogH6hBADCo2UfAloh7v/view?usp=sharing

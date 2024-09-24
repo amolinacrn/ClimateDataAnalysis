@@ -38,15 +38,17 @@ A continuación se listan las variables de estudio:
 
 Para abordar el análisis, se aplicarán técnicas estadísticas y de machine learning para explorar la relación entre las variables. Los pasos incluyen:
 
-1. **Análisis Exploratorio de Datos (EDA)**: Se realizará un análisis descriptivo de cada variable, incluyendo su comportamiento a lo largo del tiempo en cada municipio, con el fin de identificar patrones iniciales o tendencias.
+1. **Análisis Exploratorio de Datos (EDA)**: Se realizará un análisis descriptivo de cada variable, incluyendo su comportamiento a lo largo del tiempo en cada municipio, con el fin de identificar patrones iniciales o tendencias. Ejemplo de la variabilidad de una serie temporal:
    
-2. **Correlación de Variables**: Se calculará la correlación entre las variables para cada municipio, utilizando matrices de correlación, coeficientes de Pearson y otros métodos estadísticos relevantes.
+   ![Gráfico de Ejemplo](plots/img0.png)
+   
+3. **Correlación de Variables**: Se calculará la correlación entre las variables para cada municipio, utilizando matrices de correlación, coeficientes de Pearson y otros métodos estadísticos relevantes.
 
-3. **Visualización de Datos**: Se generarán gráficos para visualizar la relación entre las variables y su evolución temporal, tales como gráficos de líneas, scatter plots y heatmaps para las correlaciones.
+4. **Visualización de Datos**: Se generarán gráficos para visualizar la relación entre las variables y su evolución temporal, tales como gráficos de líneas, scatter plots y heatmaps para las correlaciones.
 
-4. **Análisis de Tendencias**: Se investigarán las tendencias climáticas generales en cada municipio y cómo afectan el comportamiento de las variables. Se aplicarán modelos de regresión lineal y análisis de series temporales para identificar cambios a lo largo del tiempo.
+5. **Análisis de Tendencias**: Se investigarán las tendencias climáticas generales en cada municipio y cómo afectan el comportamiento de las variables. Se aplicarán modelos de regresión lineal y análisis de series temporales para identificar cambios a lo largo del tiempo.
 
-5. **Interpretación de Resultados**: Se analizarán los resultados para determinar si existe una interdependencia significativa entre las variables en cada municipio. Este análisis puede proporcionar información valiosa sobre cómo ciertos eventos climáticos, como olas de calor o tormentas, podrían estar relacionados con otras variables.
+6. **Interpretación de Resultados**: Se analizarán los resultados para determinar si existe una interdependencia significativa entre las variables en cada municipio. Este análisis puede proporcionar información valiosa sobre cómo ciertos eventos climáticos, como olas de calor o tormentas, podrían estar relacionados con otras variables.
 
 ## Resultados Esperados
 Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Como ejemplo, los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:

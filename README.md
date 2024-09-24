@@ -50,8 +50,13 @@ Para abordar el análisis, se aplicarán técnicas estadísticas y de machine le
 
 ## Resultados Esperados
 Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Como ejemplo, los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:
+
+PM10 se refiere a partículas suspendidas en el aire que tienen un diámetro aerodinámico de 10 micrómetros (µm) o menos. Estas partículas son lo suficientemente pequeñas como para ser inhaladas y pueden penetrar en las vías respiratorias, lo que representa un riesgo para la salud humana y el medio ambiente.
+
 ![Gráfico de Ejemplo](plots/Graf8.png)
+---
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
+---
 ![Gráfico de Ejemplo](plots/gxGraf9.png)
 
 

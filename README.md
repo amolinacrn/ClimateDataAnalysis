@@ -49,7 +49,7 @@ Ejemplo de la variabilidad de una serie temporal en funcion del tiempo:
   ---
 
    <h3 align="center">
-Ejemplo de las estadisticas descriptivas:
+Ejemplo de las estadisticas descriptivas para la varialbe temperatura a 10 metros sobre el suelo:
 </h3>
 
  ![Gráfico de Ejemplo](datosaire_files/datosaire_44_0.png)

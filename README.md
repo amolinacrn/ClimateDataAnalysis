@@ -79,7 +79,7 @@ Impactos en la salud pública: Contribución a la mortalidad prematura en poblac
 ---
 <h3 align="center">
 Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
-<h3>
+</h3>
 
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
 
@@ -90,7 +90,7 @@ Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
 ---
 <h3 align="center">
 Regresiones para las distribuciones del $PM_{10,2.5}$
-<h3>
+</h3>
 
 ![Gráfico de Ejemplo](plots/gxGraf9.png)
 

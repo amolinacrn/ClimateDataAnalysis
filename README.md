@@ -134,4 +134,4 @@ Más información aquí:
 ---
 [https://github.com/amolinacrn/dinamicasClimaticas.ipynb](https://github.com/amolinacrn/ClimateDataAnalysis/blob/main/dinamicasClimaticas.ipynb)
 
-[inamicasClimaticas.pdf](https://drive.google.com/file/d/1O9rn2bBC52oUVogH6hBADCo2UfAloh7v/view?usp=sharing)
+[https://drive.google.com/file/DinamicasClimaticas.pdf](https://drive.google.com/file/d/1O9rn2bBC52oUVogH6hBADCo2UfAloh7v/view?usp=sharing)

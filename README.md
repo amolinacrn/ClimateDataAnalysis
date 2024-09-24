@@ -51,7 +51,7 @@ Para abordar el análisis, se aplicarán técnicas estadísticas y de machine le
 ## Resultados Esperados
 Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:
 
-![Gráfico de Ejemplo](https://github.com/amolinacrn/ClimateDataAnalysis/tree/main/plots/pm10_concentracion_corr.png)
+![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
 
 
 El análisis realizado hasta ahora muestra resultados prometedores al identificar correlaciones lineales significativas entre variables climáticas en diferentes municipios. Se ha logrado ajustar un modelo lineal bajo ciertas condiciones en casi todos los casos, con mínimas excepciones, lo que sugiere que las variables climáticas entre municipios tienden a seguir patrones lineales bajo ciertas circunstancias. Sin embargo, aún queda mucho por explorar. Debido a las limitaciones de tiempo, no se ha abordado el estudio de dinámicas no lineales, las cuales podrían revelar comportamientos más complejos y realistas de las variables climáticas.

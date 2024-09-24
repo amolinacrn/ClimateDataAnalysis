@@ -61,13 +61,30 @@ Problemas respiratorios: Irritación de las vías respiratorias, agravamiento de
 Enfermedades cardiovasculares: Aumento del riesgo de ataques cardíacos y accidentes cerebrovasculares.
 Impactos en la salud pública: Contribución a la mortalidad prematura en poblaciones vulnerables.
 
-![Gráfico de Ejemplo](plots/Graf8.png)
+
 ---
+Variación del $PM_{10,2.5}$ en funcio del tiempo
+
+![Gráfico de Ejemplo](plots/dispers0.png)
+
+---
+histografas del $PM_{10,2.5}$
+
+![Gráfico de Ejemplo](plots/Graf8.png)
+
+---
+Correlaciones de Pearson entre los histogramas del $PM_{10,2.5}$
+
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
+
 ---
 ![Gráfico de Ejemplo](plots/pm25_concentracion_corr.pn)
+
 ---
+Regresiones para el $PM_{10,2.5}$
+
 ![Gráfico de Ejemplo](plots/gxGraf9.png)
+
 ---
 
 El análisis realizado hasta ahora muestra resultados prometedores al identificar correlaciones lineales significativas entre variables climáticas en diferentes municipios. Se ha logrado ajustar un modelo lineal bajo ciertas condiciones en casi todos los casos, con mínimas excepciones, lo que sugiere que las variables climáticas entre municipios tienden a seguir patrones lineales bajo ciertas circunstancias. Sin embargo, aún queda mucho por explorar. Debido a las limitaciones de tiempo, no se ha abordado el estudio de dinámicas no lineales, las cuales podrían revelar comportamientos más complejos y realistas de las variables climáticas.

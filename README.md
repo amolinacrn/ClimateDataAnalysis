@@ -132,8 +132,6 @@ El análisis de datos se realiza con las siguientes herramientas:
 
 Más información aquí:
 ---
-[https://github.com/amolinacrn/ClimateDataAnalysis](https://github.com/amolinacrn/ClimateDataAnalysis/blob/main/dinamicasClimaticas.ipynb)
+[https://github.com/amolinacrn/dinamicasClimaticas.ipynb](https://github.com/amolinacrn/ClimateDataAnalysis/blob/main/dinamicasClimaticas.ipynb)
 
-
-
-https://drive.google.com/file/d/1O9rn2bBC52oUVogH6hBADCo2UfAloh7v/view?usp=sharing
+[inamicasClimaticas.pdf](https://drive.google.com/file/d/1O9rn2bBC52oUVogH6hBADCo2UfAloh7v/view?usp=sharing)

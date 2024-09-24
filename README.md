@@ -49,9 +49,10 @@ Para abordar el análisis, se aplicarán técnicas estadísticas y de machine le
 5. **Interpretación de Resultados**: Se analizarán los resultados para determinar si existe una interdependencia significativa entre las variables en cada municipio. Este análisis puede proporcionar información valiosa sobre cómo ciertos eventos climáticos, como olas de calor o tormentas, podrían estar relacionados con otras variables.
 
 ## Resultados Esperados
-Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:
-
+Se espera identificar relaciones claras entre algunas variables climáticas que puedan estar influenciándose mutuamente en determinados municipios. Estos resultados podrían tener implicaciones importantes para la gestión de recursos naturales y la preparación para eventos climáticos extremos. Como ejemplo, los gráficos a continuación revelan detalles contundentes de nuestros hallazgos:
+![Gráfico de Ejemplo](plots/Graf8.png)
 ![Gráfico de Ejemplo](plots/pm10_concentracion_corr.png)
+![Gráfico de Ejemplo](plots/gxGraf9.png)
 
 
 El análisis realizado hasta ahora muestra resultados prometedores al identificar correlaciones lineales significativas entre variables climáticas en diferentes municipios. Se ha logrado ajustar un modelo lineal bajo ciertas condiciones en casi todos los casos, con mínimas excepciones, lo que sugiere que las variables climáticas entre municipios tienden a seguir patrones lineales bajo ciertas circunstancias. Sin embargo, aún queda mucho por explorar. Debido a las limitaciones de tiempo, no se ha abordado el estudio de dinámicas no lineales, las cuales podrían revelar comportamientos más complejos y realistas de las variables climáticas.

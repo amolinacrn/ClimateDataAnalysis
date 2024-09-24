@@ -96,7 +96,11 @@ Regresiones para las distribuciones del $PM_{10,2.5}$
 
 ---
 
+![Gráfico de Ejemplo](dataf.png)
+
 El análisis realizado hasta ahora muestra resultados prometedores al identificar correlaciones lineales significativas entre variables climáticas en diferentes municipios. Se ha logrado ajustar un modelo lineal bajo ciertas condiciones en casi todos los casos, con mínimas excepciones, lo que sugiere que las variables climáticas entre municipios tienden a seguir patrones lineales bajo ciertas circunstancias. Sin embargo, aún queda mucho por explorar. Debido a las limitaciones de tiempo, no se ha abordado el estudio de dinámicas no lineales, las cuales podrían revelar comportamientos más complejos y realistas de las variables climáticas.
+
+
 ## Tecnologías Utilizadas
 
 El análisis de datos se realiza con las siguientes herramientas:
